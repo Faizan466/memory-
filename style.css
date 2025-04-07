@@ -28,5 +28,21 @@ nav ul li{
 }
 .image img{
     height: 45px;
+    padding: 0 10px;
+}
+.container{
+    min-height: 90vh;
+}
+.botton{
+    position: sticky;
+    background-color: black;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.range{
+    width: 75%;
 }
 
