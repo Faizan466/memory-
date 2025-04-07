@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+nav ul{
+    display: flex;
+     
+}
+nav {
+    height: 100px;
+    width: 100vw;
+    background-color: aqua;
+}
